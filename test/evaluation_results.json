@@ -4,153 +4,153 @@
     "filename":"ayam_bakar1.jpg",
     "prediction_label":"ayam_bakar",
     "prediction_name":"Ayam Bakar",
-    "confidence":0.9909,
+    "confidence":0.9895,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9909341335296631, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.006108610890805721, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.000789617421105504, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0005059007671661675, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.0004246941825840622, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
+    "top_predictions":"[{'confidence': 0.9894958138465881, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.004528280347585678, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.002331657102331519, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
   },
   {
     "true_label":"ayam_bakar",
     "filename":"ayam_bakar2.jpg",
     "prediction_label":"ayam_bakar",
     "prediction_name":"Ayam Bakar",
-    "confidence":0.9971,
+    "confidence":0.9351,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9971492886543274, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.0019945218227803707, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.0008506457670591772, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.656406425354362e-06, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 1.5745196151328855e-06, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}]"
+    "top_predictions":"[{'confidence': 0.9351323246955872, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.052147276699543, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.006442921236157417, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"ayam_bakar",
     "filename":"ayam_bakar3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"ayam_bakar",
+    "prediction_name":"Ayam Bakar",
+    "confidence":0.9344,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9343838095664978, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.047518420964479446, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.01255936548113823, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}]"
   },
   {
     "true_label":"ayam_geprek",
     "filename":"ayam_geprek1.jpg",
     "prediction_label":"ayam_geprek",
     "prediction_name":"Ayam Geprek",
-    "confidence":0.9725,
+    "confidence":0.9936,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9725000262260437, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.017853837460279465, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.004526212345808744, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.003415679791942239, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0005803433014079928, 'id': 41, 'name': 'Sate', 'slug': 'sate'}]"
+    "top_predictions":"[{'confidence': 0.9936420321464539, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.004256450105458498, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.0017461549723520875, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
   },
   {
     "true_label":"ayam_geprek",
     "filename":"ayam_geprek2.jpg",
     "prediction_label":"ayam_geprek",
     "prediction_name":"Ayam Geprek",
-    "confidence":0.9952,
+    "confidence":0.9878,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9952322840690613, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.002419044030830264, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.002095285803079605, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.00011644323967630044, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 3.69263143511489e-05, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "top_predictions":"[{'confidence': 0.9877656698226929, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.010695766657590866, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.0003303088014945388, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
   },
   {
     "true_label":"ayam_geprek",
     "filename":"ayam_geprek3.jpeg",
-    "prediction_label":"ayam_geprek",
-    "prediction_name":"Ayam Geprek",
-    "confidence":0.754,
-    "is_correct":true,
-    "top_predictions":"[{'confidence': 0.7539941668510437, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.05651756003499031, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.05079912394285202, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0441398024559021, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.0350341722369194, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}]"
+    "prediction_label":"sate",
+    "prediction_name":"Sate",
+    "confidence":0.5917,
+    "is_correct":false,
+    "top_predictions":"[{'confidence': 0.5916657447814941, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.2444188892841339, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.05513767898082733, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}]"
   },
   {
     "true_label":"ayam_goreng",
     "filename":"ayam_goreng1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"ayam_goreng",
+    "prediction_name":"Ayam Goreng",
+    "confidence":0.9741,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9741492867469788, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.014065887778997421, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.005076853092759848, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"ayam_goreng",
     "filename":"ayam_goreng2.jpg",
     "prediction_label":"ayam_goreng",
     "prediction_name":"Ayam Goreng",
-    "confidence":0.9858,
+    "confidence":0.673,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9858121871948242, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.006956835743039846, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.0016699287807568908, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.0016367972129955888, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0007584980921819806, 'id': 41, 'name': 'Sate', 'slug': 'sate'}]"
+    "top_predictions":"[{'confidence': 0.673025906085968, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.12388399243354797, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.07155700027942657, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
   },
   {
     "true_label":"ayam_goreng",
     "filename":"ayam_goreng3.jpg",
-    "prediction_label":"cumi",
-    "prediction_name":"Cumi",
-    "confidence":0.7402,
+    "prediction_label":"kepiting_saus",
+    "prediction_name":"Kepiting Saus",
+    "confidence":0.8967,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7401929497718811, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.11168289929628372, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.05516898259520531, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.03362542390823364, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.02348170429468155, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}]"
+    "top_predictions":"[{'confidence': 0.8966848850250244, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.03133241832256317, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.026806212961673737, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
   },
   {
     "true_label":"bakso",
     "filename":"bakso1.jpg",
     "prediction_label":"bakso",
     "prediction_name":"Bakso",
-    "confidence":0.7341,
+    "confidence":0.9875,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.7341048717498779, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.15717963874340057, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.04819195717573166, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.029839688912034035, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.021293412894010544, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}]"
+    "top_predictions":"[{'confidence': 0.9875103235244751, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.0052946642972528934, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.0027152104303240776, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"bakso",
     "filename":"bakso2.jpg",
-    "prediction_label":"seblak",
-    "prediction_name":"Seblak",
-    "confidence":0.4572,
+    "prediction_label":"sayur_sop",
+    "prediction_name":"Sayur Sop",
+    "confidence":0.8355,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.4571983814239502, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.21478869020938873, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.14755769073963165, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.10328807681798935, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.04382265731692314, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "top_predictions":"[{'confidence': 0.8354871273040771, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.07449308782815933, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.0626261830329895, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
   },
   {
     "true_label":"bakso",
     "filename":"bakso3.jpg",
     "prediction_label":"bakso",
     "prediction_name":"Bakso",
-    "confidence":0.9999,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.999914288520813, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 5.805954060633667e-05, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 1.0631547411321662e-05, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 6.187892722664401e-06, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 5.730467819375917e-06, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}]"
+    "top_predictions":"[{'confidence': 0.9999974966049194, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 1.7010446526910528e-06, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 2.30605124329486e-07, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}]"
   },
   {
     "true_label":"buah_alpukat",
     "filename":"buah_alpukat1.jpg",
     "prediction_label":"buah_alpukat",
     "prediction_name":"Buah Alpukat",
-    "confidence":0.9988,
+    "confidence":0.969,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9988337159156799, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.001055984990671277, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 3.6349822039483115e-05, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 3.2068452128442004e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 2.1882156943320297e-05, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}]"
+    "top_predictions":"[{'confidence': 0.9689739346504211, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.02859847992658615, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.0018034792738035321, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_alpukat",
     "filename":"buah_alpukat2.jpg",
     "prediction_label":"buah_alpukat",
     "prediction_name":"Buah Alpukat",
-    "confidence":0.9998,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998407363891602, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 6.637977639911696e-05, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 4.906234971713275e-05, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 2.570417200331576e-05, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 1.3838578524882905e-05, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
+    "top_predictions":"[{'confidence': 0.9999943971633911, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 2.63157789959223e-06, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 1.4598741699956008e-06, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
   },
   {
     "true_label":"buah_alpukat",
     "filename":"buah_alpukat3.jpg",
     "prediction_label":"buah_alpukat",
     "prediction_name":"Buah Alpukat",
-    "confidence":0.9998,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998444318771362, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.00010595040657790378, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 1.4456487406278029e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.3524338100978639e-05, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 1.0256866517011076e-05, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "top_predictions":"[{'confidence': 0.9999939203262329, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 4.937963240081444e-06, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 4.3540831029531546e-07, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_anggur",
     "filename":"buah_anggur1.jpg",
     "prediction_label":"buah_anggur",
     "prediction_name":"Buah Anggur",
-    "confidence":0.8625,
+    "confidence":0.695,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.8624792695045471, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.11106383800506592, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.02235487848520279, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.003380879759788513, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.00027831242186948657, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}]"
+    "top_predictions":"[{'confidence': 0.6950243711471558, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.2436380833387375, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.050063490867614746, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_anggur",
     "filename":"buah_anggur2.jpg",
     "prediction_label":"buah_anggur",
     "prediction_name":"Buah Anggur",
-    "confidence":0.9983,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9983388185501099, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.0007268637418746948, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.00033311775769107044, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.0002251020778203383, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.00019240986148361117, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "top_predictions":"[{'confidence': 0.9999691247940063, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 1.1502337656565942e-05, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 8.37165498523973e-06, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}]"
   },
   {
     "true_label":"buah_anggur",
@@ -159,79 +159,79 @@
     "prediction_name":"Buah Anggur",
     "confidence":0.9999,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998515844345093, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.0001326172932749614, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 8.244416676461697e-06, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 6.098364792705979e-06, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 4.4978256141803286e-07, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
+    "top_predictions":"[{'confidence': 0.9999196529388428, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 5.841374513693154e-05, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 6.046693215466803e-06, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_apel",
     "filename":"buah_apel1.jpg",
-    "prediction_label":"buah_apel",
-    "prediction_name":"Buah Apel",
-    "confidence":0.969,
-    "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9689502120018005, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.026704926043748856, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.0035745648201555014, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.00032642867881804705, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.00017931513139046729, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
+    "prediction_label":"buah_salak",
+    "prediction_name":"Buah Salak",
+    "confidence":0.8422,
+    "is_correct":false,
+    "top_predictions":"[{'confidence': 0.8422248959541321, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.06931356340646744, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.06160896643996239, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
   },
   {
     "true_label":"buah_apel",
     "filename":"buah_apel2.jpg",
     "prediction_label":"buah_apel",
     "prediction_name":"Buah Apel",
-    "confidence":0.9983,
+    "confidence":0.9957,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9983391761779785, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.001477386336773634, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.00014790799468755722, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 1.859795520431362e-05, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 5.021063316235086e-06, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
+    "top_predictions":"[{'confidence': 0.9956710338592529, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.003276256611570716, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.0004448206746019423, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
   },
   {
     "true_label":"buah_apel",
     "filename":"buah_apel3.jpg",
     "prediction_label":"buah_apel",
     "prediction_name":"Buah Apel",
-    "confidence":0.815,
+    "confidence":0.8957,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.8149755001068115, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.1661212146282196, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.012963210232555866, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.004044446628540754, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.0006304651615209877, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
+    "top_predictions":"[{'confidence': 0.8956782221794128, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.042064111679792404, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.028474217280745506, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
   },
   {
     "true_label":"buah_jambu",
     "filename":"buah_jambu1.jpg",
-    "prediction_label":"tahu_goreng",
-    "prediction_name":"Tahu Goreng",
-    "confidence":0.3935,
+    "prediction_label":"buah_kurma",
+    "prediction_name":"Buah Kurma",
+    "confidence":0.5366,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.3934696912765503, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.34848710894584656, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.12128579616546631, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.048819102346897125, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.02701915241777897, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
+    "top_predictions":"[{'confidence': 0.536649763584137, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.3657689094543457, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.0314752459526062, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
   },
   {
     "true_label":"buah_jambu",
     "filename":"buah_jambu2.jpg",
-    "prediction_label":"buah_anggur",
-    "prediction_name":"Buah Anggur",
-    "confidence":0.7148,
+    "prediction_label":"buah_salak",
+    "prediction_name":"Buah Salak",
+    "confidence":0.4797,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7148054838180542, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.2080950140953064, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.06567791849374771, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.00253444816917181, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.0025206517893821, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
+    "top_predictions":"[{'confidence': 0.4797138273715973, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.3284757435321808, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.14178074896335602, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}]"
   },
   {
     "true_label":"buah_jambu",
     "filename":"buah_jambu3.jpg",
-    "prediction_label":"buah_naga",
-    "prediction_name":"Buah Naga",
-    "confidence":0.6764,
+    "prediction_label":"buah_pepaya",
+    "prediction_name":"Buah Pepaya",
+    "confidence":0.6853,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.6764481663703918, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.24702446162700653, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.06964234262704849, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.0045099398121237755, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.0009054156253114343, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}]"
+    "top_predictions":"[{'confidence': 0.6852552890777588, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.11377955228090286, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.09214849770069122, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
   },
   {
     "true_label":"buah_jeruk",
     "filename":"buah_jeruk1.jpg",
     "prediction_label":"buah_jeruk",
     "prediction_name":"Buah Jeruk",
-    "confidence":0.9984,
+    "confidence":0.9993,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9984183311462402, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.0013739671558141708, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 9.715292253531516e-05, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 5.938205140409991e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 4.339907900430262e-05, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
+    "top_predictions":"[{'confidence': 0.9993065595626831, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.0003495953278616071, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 9.297734504798427e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_jeruk",
     "filename":"buah_jeruk2.jpg",
     "prediction_label":"buah_jeruk",
     "prediction_name":"Buah Jeruk",
-    "confidence":0.9999,
+    "confidence":0.9988,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998939037322998, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 5.39801039849408e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.1568442459974904e-05, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 1.021200750983553e-05, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 8.783943485468626e-06, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
+    "top_predictions":"[{'confidence': 0.9988414645195007, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.0005743096116930246, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.00033080315915867686, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}]"
   },
   {
     "true_label":"buah_jeruk",
@@ -240,16 +240,16 @@
     "prediction_name":"Buah Jeruk",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.999998927116394, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 9.08954518763494e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.3966732126391435e-07, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 4.392527941377011e-08, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 3.226397637945411e-08, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
+    "top_predictions":"[{'confidence': 0.9999996423721313, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 3.774532615352655e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 3.298712769606027e-08, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_kiwi",
     "filename":"buah_kiwi1.jpg",
     "prediction_label":"buah_kiwi",
     "prediction_name":"Buah Kiwi",
-    "confidence":0.988,
+    "confidence":0.9986,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9880070686340332, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.011745048686861992, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.00022231640468817204, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 1.3013680472795386e-05, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 7.3534315561119e-06, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "top_predictions":"[{'confidence': 0.9986447691917419, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.0012201741337776184, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.00013261535787023604, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_kiwi",
@@ -258,70 +258,70 @@
     "prediction_name":"Buah Kiwi",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 1.0, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 3.533634185259871e-08, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 2.438300894525014e-09, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 2.431965739901898e-09, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 4.212818704996124e-10, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}]"
+    "top_predictions":"[{'confidence': 1.0, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 6.035298927287158e-10, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 5.979417516677188e-10, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
   },
   {
     "true_label":"buah_kiwi",
     "filename":"buah_kiwi3.jpg",
     "prediction_label":"buah_kiwi",
     "prediction_name":"Buah Kiwi",
-    "confidence":0.9998,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998323917388916, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.00013134503387846053, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 1.6180561942746863e-05, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 7.134941370168235e-06, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 7.048542556731263e-06, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "top_predictions":"[{'confidence': 0.9999988079071045, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 8.256155297203804e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.2881734789971233e-07, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_kurma",
     "filename":"buah_kurma1.jpg",
     "prediction_label":"buah_kurma",
     "prediction_name":"Buah Kurma",
-    "confidence":1.0,
+    "confidence":0.9993,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.999998927116394, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 4.467547682907025e-07, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 3.54682725856037e-07, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 1.626293624212849e-07, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 1.30915900342643e-08, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
+    "top_predictions":"[{'confidence': 0.9992901086807251, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.0004567247233353555, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.00011558331607375294, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
   },
   {
     "true_label":"buah_kurma",
     "filename":"buah_kurma2.jpg",
     "prediction_label":"buah_kurma",
     "prediction_name":"Buah Kurma",
-    "confidence":0.9996,
+    "confidence":0.9997,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.999636173248291, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.0003631862928159535, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 1.5486720883473026e-07, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 1.4648371404746285e-07, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 1.4563194383754308e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
+    "top_predictions":"[{'confidence': 0.9997431635856628, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.00010256202949676663, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 3.385576928849332e-05, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"buah_kurma",
     "filename":"buah_kurma3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"buah_kurma",
+    "prediction_name":"Buah Kurma",
+    "confidence":0.9204,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9204496145248413, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.077161505818367, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.0008928018505685031, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_mangga",
     "filename":"buah_mangga1.jpg",
     "prediction_label":"buah_mangga",
     "prediction_name":"Buah Mangga",
-    "confidence":0.9224,
+    "confidence":0.479,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9224013090133667, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.03307051584124565, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 0.017353376373648643, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.009214921854436398, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.006255466490983963, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}]"
+    "top_predictions":"[{'confidence': 0.47895359992980957, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.21920567750930786, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 0.15466046333312988, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_mangga",
     "filename":"buah_mangga2.jpg",
     "prediction_label":"buah_mangga",
     "prediction_name":"Buah Mangga",
-    "confidence":0.9324,
+    "confidence":0.9917,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9323835372924805, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.06254495680332184, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 0.004875754937529564, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.00012862043513450772, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 5.4464704589918256e-05, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
+    "top_predictions":"[{'confidence': 0.9916691780090332, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.0031448525842279196, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 0.0025681143160909414, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
   },
   {
     "true_label":"buah_mangga",
     "filename":"buah_mangga3.jpg",
     "prediction_label":"buah_mangga",
     "prediction_name":"Buah Mangga",
-    "confidence":0.9987,
+    "confidence":0.8107,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9986786246299744, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.0009036267292685807, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 0.0002361153601668775, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.0001319712318945676, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 3.651907900348306e-05, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
+    "top_predictions":"[{'confidence': 0.810723602771759, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.18503309786319733, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}, {'confidence': 0.002565117785707116, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
   },
   {
     "true_label":"buah_melon",
@@ -330,7 +330,7 @@
     "prediction_name":"Buah Melon",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999997615814209, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 2.896464650348207e-07, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 2.4410979904132546e-08, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 2.8468730151054444e-10, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 1.1216083617426875e-10, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
+    "top_predictions":"[{'confidence': 0.999991774559021, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 5.063071512267925e-06, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.5657999483664753e-06, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
   },
   {
     "true_label":"buah_melon",
@@ -339,106 +339,106 @@
     "prediction_name":"Buah Melon",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 1.0, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 1.2224288248319226e-08, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 7.441920413242542e-09, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 6.300184263174913e-10, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 1.8405707513657887e-10, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
+    "top_predictions":"[{'confidence': 0.9999929666519165, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 5.544070518226363e-06, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 8.892381515579473e-07, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}]"
   },
   {
     "true_label":"buah_melon",
     "filename":"buah_melon3.jpg",
     "prediction_label":"buah_melon",
     "prediction_name":"Buah Melon",
-    "confidence":0.9044,
+    "confidence":0.9906,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9044482111930847, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.08537706732749939, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.006602075882256031, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.0017277217702940106, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.0010165220592170954, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "top_predictions":"[{'confidence': 0.9905840158462524, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.008042806759476662, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.0005976815009489655, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
   },
   {
     "true_label":"buah_naga",
     "filename":"buah_naga1.jpg",
     "prediction_label":"buah_naga",
     "prediction_name":"Buah Naga",
-    "confidence":1.0,
+    "confidence":0.9972,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999915361404419, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 6.750498414476169e-06, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 1.1407773854443803e-06, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 2.908606404616876e-07, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 1.3697599854367581e-07, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "top_predictions":"[{'confidence': 0.9971523284912109, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.0027019879780709743, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.00011183220340171829, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_naga",
     "filename":"buah_naga2.jpg",
-    "prediction_label":"buah_naga",
-    "prediction_name":"Buah Naga",
-    "confidence":0.9999,
-    "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9998869895935059, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.0001114180704462342, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 4.558511648156127e-07, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 3.492839937280223e-07, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 3.043320759843482e-07, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
+    "prediction_label":"buah_strawberry",
+    "prediction_name":"Buah Strawberry",
+    "confidence":0.9887,
+    "is_correct":false,
+    "top_predictions":"[{'confidence': 0.9887413382530212, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.009707581251859665, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.0012228196719661355, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
   },
   {
     "true_label":"buah_naga",
     "filename":"buah_naga3.jpg",
     "prediction_label":"buah_rambutan",
     "prediction_name":"Buah Rambutan",
-    "confidence":0.7758,
+    "confidence":0.5495,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7757743000984192, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.21536414325237274, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.005245642736554146, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.002691020956262946, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.0005206742789596319, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "top_predictions":"[{'confidence': 0.5495234727859497, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.3711667060852051, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 0.05242597311735153, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_nanas",
     "filename":"buah_nanas1.jpg",
     "prediction_label":"buah_nanas",
     "prediction_name":"Buah Nanas",
-    "confidence":0.9995,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9995013475418091, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 0.0003354698419570923, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 6.628027040278539e-05, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 2.087159373331815e-05, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 1.6042993593146093e-05, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}]"
+    "top_predictions":"[{'confidence': 0.999991774559021, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 4.393866220198106e-06, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 1.4007740674060187e-06, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_nanas",
     "filename":"buah_nanas2.jpg",
     "prediction_label":"buah_nanas",
     "prediction_name":"Buah Nanas",
-    "confidence":1.0,
+    "confidence":0.9999,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999998807907104, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 5.920772139234032e-08, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 1.6672517588744995e-08, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 9.761624397697233e-09, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 9.47107636761757e-09, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}]"
+    "top_predictions":"[{'confidence': 0.999873161315918, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 9.907928324537352e-05, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 9.155259249382652e-06, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}]"
   },
   {
     "true_label":"buah_nanas",
     "filename":"buah_nanas3.jpg",
     "prediction_label":"buah_nanas",
     "prediction_name":"Buah Nanas",
-    "confidence":0.9973,
+    "confidence":0.8818,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9972535967826843, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 0.0011041288962587714, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.00046692549949511886, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 0.0004019809130113572, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.00017386289255227894, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
+    "top_predictions":"[{'confidence': 0.8818082213401794, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 0.055059995502233505, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.023321783170104027, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
   },
   {
     "true_label":"buah_pepaya",
     "filename":"buah_pepaya1.jpg",
-    "prediction_label":"buah_pepaya",
-    "prediction_name":"Buah Pepaya",
-    "confidence":0.4709,
-    "is_correct":true,
-    "top_predictions":"[{'confidence': 0.47089383006095886, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.28933265805244446, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.12345144897699356, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.11496089398860931, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.0005995273240841925, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "prediction_label":"buah_mangga",
+    "prediction_name":"Buah Mangga",
+    "confidence":0.5776,
+    "is_correct":false,
+    "top_predictions":"[{'confidence': 0.577552080154419, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.3117647171020508, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.06179594248533249, 'id': 7, 'name': 'Buah Jambu', 'slug': 'buah_jambu'}]"
   },
   {
     "true_label":"buah_pepaya",
     "filename":"buah_pepaya2.jpg",
     "prediction_label":"buah_pepaya",
     "prediction_name":"Buah Pepaya",
-    "confidence":0.5208,
+    "confidence":0.9997,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.5208213925361633, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.2462187111377716, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.22441621124744415, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.004014529287815094, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.00366056221537292, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
+    "top_predictions":"[{'confidence': 0.99965500831604, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.0002564087917562574, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 5.681187394657172e-05, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}]"
   },
   {
     "true_label":"buah_pepaya",
     "filename":"buah_pepaya3.jpg",
-    "prediction_label":"buah_jeruk",
-    "prediction_name":"Buah Jeruk",
-    "confidence":0.734,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7339680790901184, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.13484390079975128, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.07625152170658112, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.03806250914931297, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.006795747205615044, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}]"
+    "prediction_label":"buah_pepaya",
+    "prediction_name":"Buah Pepaya",
+    "confidence":0.6022,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.6021979451179504, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 0.24503491818904877, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.052921194583177567, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_pisang",
     "filename":"buah_pisang1.jpg",
     "prediction_label":"buah_pisang",
     "prediction_name":"Buah Pisang",
-    "confidence":0.9916,
+    "confidence":0.8147,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9915560483932495, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 0.00835904385894537, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 5.52306228200905e-05, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.932167651830241e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 2.104874965880299e-06, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
+    "top_predictions":"[{'confidence': 0.8146548271179199, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 0.18470169603824615, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.0003590327687561512, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"buah_pisang",
@@ -447,7 +447,7 @@
     "prediction_name":"Buah Pisang",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999997615814209, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 2.2463852644705185e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.4017592420145775e-08, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 2.166242296652854e-09, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 1.2168404062151694e-09, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
+    "top_predictions":"[{'confidence': 0.9999940395355225, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 2.812869524859707e-06, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 1.782277308848279e-06, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
   },
   {
     "true_label":"buah_pisang",
@@ -456,7 +456,7 @@
     "prediction_name":"Buah Pisang",
     "confidence":0.9999,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999278783798218, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 6.837877299403772e-05, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.625063987376052e-06, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 6.976328563723655e-07, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 3.645425294962479e-07, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}]"
+    "top_predictions":"[{'confidence': 0.9999151229858398, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 7.022343197604641e-05, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 3.0918943139113253e-06, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_rambutan",
@@ -465,7 +465,7 @@
     "prediction_name":"Buah Rambutan",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999994039535522, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 5.348961167328525e-07, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 1.8413746083467686e-09, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 1.8027342951754122e-09, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 4.2032810565473255e-10, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
+    "top_predictions":"[{'confidence': 0.9999961853027344, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 3.3324236028420273e-06, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.7914055661094608e-07, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}]"
   },
   {
     "true_label":"buah_rambutan",
@@ -474,16 +474,16 @@
     "prediction_name":"Buah Rambutan",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999933242797852, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 3.7957506719976664e-06, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 1.149853801507561e-06, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 1.0424207630421733e-06, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 3.9321250255852647e-07, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
+    "top_predictions":"[{'confidence': 0.9999980926513672, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 1.1425998991398956e-06, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 4.789918079950439e-07, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}]"
   },
   {
     "true_label":"buah_rambutan",
     "filename":"buah_rambutan3.jpg",
     "prediction_label":"buah_rambutan",
     "prediction_name":"Buah Rambutan",
-    "confidence":1.0,
+    "confidence":0.9999,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999971389770508, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 2.5394770091224927e-06, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 3.4352515854152443e-07, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}, {'confidence': 3.6860738905630797e-09, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 2.869649629033688e-09, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}]"
+    "top_predictions":"[{'confidence': 0.9999160766601562, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 2.84452526102541e-05, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 1.8243577869725414e-05, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_salak",
@@ -492,25 +492,25 @@
     "prediction_name":"Buah Salak",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 1.0, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 2.472255733465545e-10, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 1.4682231819218572e-10, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 1.416383815788791e-10, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 4.7483562221062314e-11, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
+    "top_predictions":"[{'confidence': 1.0, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.8952116265236185e-10, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 1.5830377286807362e-10, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}]"
   },
   {
     "true_label":"buah_salak",
     "filename":"buah_salak2.jpg",
     "prediction_label":"buah_salak",
     "prediction_name":"Buah Salak",
-    "confidence":0.966,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9659814238548279, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.03244633227586746, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.0008196671842597425, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.00034815765684470534, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 0.00030044623417779803, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}]"
+    "top_predictions":"[{'confidence': 0.9999816417694092, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.7816440958995372e-05, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 1.3268520149267715e-07, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
   },
   {
     "true_label":"buah_salak",
     "filename":"buah_salak3.jpg",
     "prediction_label":"buah_salak",
     "prediction_name":"Buah Salak",
-    "confidence":0.9996,
+    "confidence":0.9999,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9996091723442078, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.00016969078569673002, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}, {'confidence': 0.00012412392243277282, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 4.394613642944023e-05, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 3.0496154067805037e-05, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
+    "top_predictions":"[{'confidence': 0.9999358654022217, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 3.6386049032444134e-05, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 8.500644980813377e-06, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_semangka",
@@ -519,25 +519,25 @@
     "prediction_name":"Buah Semangka",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999938011169434, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 3.3596220418985467e-06, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 2.05941682906996e-06, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}, {'confidence': 5.901313215872506e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 1.1483930961730948e-07, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
+    "top_predictions":"[{'confidence': 0.9999886751174927, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 6.612795459659537e-06, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}, {'confidence': 2.032839347521076e-06, 'id': 12, 'name': 'Buah Melon', 'slug': 'buah_melon'}]"
   },
   {
     "true_label":"buah_semangka",
     "filename":"buah_semangka2.jpg",
     "prediction_label":"buah_semangka",
     "prediction_name":"Buah Semangka",
-    "confidence":0.8553,
+    "confidence":0.9987,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.855294406414032, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.1272290050983429, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.004517375957220793, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.004126938059926033, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.003570637432858348, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "top_predictions":"[{'confidence': 0.9987214207649231, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.00045673694694414735, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.00042620699969120324, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}]"
   },
   {
     "true_label":"buah_semangka",
     "filename":"buah_semangka3.jpg",
     "prediction_label":"buah_semangka",
     "prediction_name":"Buah Semangka",
-    "confidence":0.948,
+    "confidence":0.9935,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9479546546936035, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.04889516904950142, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.002644306281581521, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.00027131044771522284, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.00010078016202896833, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
+    "top_predictions":"[{'confidence': 0.9934819340705872, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.00635066581889987, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.00015459023416042328, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}]"
   },
   {
     "true_label":"buah_strawberry",
@@ -546,888 +546,888 @@
     "prediction_name":"Buah Strawberry",
     "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9999985694885254, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 9.578183153280406e-07, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 3.11398792973705e-07, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 8.930263106776692e-08, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 1.16260778781907e-08, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}]"
+    "top_predictions":"[{'confidence': 0.9999997615814209, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 2.5306479756181943e-07, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 4.874819481415216e-08, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
   },
   {
     "true_label":"buah_strawberry",
     "filename":"buah_strawberry2.jpg",
     "prediction_label":"buah_strawberry",
     "prediction_name":"Buah Strawberry",
-    "confidence":0.9997,
+    "confidence":0.9994,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9997379183769226, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.0002234379790024832, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 3.328995080664754e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 2.049596105280216e-06, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 1.4102731711318484e-06, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}]"
+    "top_predictions":"[{'confidence': 0.9993558526039124, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.00040520020411349833, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.00017121116979978979, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}]"
   },
   {
     "true_label":"buah_strawberry",
     "filename":"buah_strawberry3.jpg",
     "prediction_label":"buah_strawberry",
     "prediction_name":"Buah Strawberry",
-    "confidence":0.9994,
+    "confidence":1.0,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9993534684181213, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 0.0006072123069316149, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 3.329079845570959e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 4.919491402688436e-06, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}, {'confidence': 3.7313381540116097e-07, 'id': 13, 'name': 'Buah Naga', 'slug': 'buah_naga'}]"
+    "top_predictions":"[{'confidence': 0.9999868869781494, 'id': 20, 'name': 'Buah Strawberry', 'slug': 'buah_strawberry'}, {'confidence': 8.082218300842214e-06, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 2.2286080820776988e-06, 'id': 6, 'name': 'Buah Apel', 'slug': 'buah_apel'}]"
   },
   {
     "true_label":"bubur_ayam",
     "filename":"bubur_ayam1.jpg",
     "prediction_label":"bubur_ayam",
     "prediction_name":"Bubur Ayam",
-    "confidence":0.9919,
+    "confidence":0.9377,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9918848276138306, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.004133923444896936, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0009321721736341715, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0007621812983416021, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.0006892264354974031, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "top_predictions":"[{'confidence': 0.937694251537323, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.054957929998636246, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.003499777754768729, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}]"
   },
   {
     "true_label":"bubur_ayam",
     "filename":"bubur_ayam2.jpg",
     "prediction_label":"bubur_ayam",
     "prediction_name":"Bubur Ayam",
-    "confidence":0.9246,
+    "confidence":0.9628,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9245924353599548, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.056052856147289276, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.010822134092450142, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.00458374572917819, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.0020011430606245995, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
+    "top_predictions":"[{'confidence': 0.9628043174743652, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.03701448440551758, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.00013936375034973025, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}]"
   },
   {
     "true_label":"bubur_ayam",
     "filename":"bubur_ayam3.jpg",
     "prediction_label":"bubur_ayam",
     "prediction_name":"Bubur Ayam",
-    "confidence":0.9647,
+    "confidence":0.9947,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9647350907325745, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.01351452711969614, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.009440942667424679, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.007748390082269907, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.002075056079775095, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
+    "top_predictions":"[{'confidence': 0.9947233200073242, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.004119796212762594, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.0009385410812683403, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
   },
   {
     "true_label":"capcay",
     "filename":"capcay1.jpg",
     "prediction_label":"capcay",
     "prediction_name":"Capcay",
-    "confidence":0.9989,
+    "confidence":0.4937,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.9988934397697449, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.0008507897728122771, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.00013900395424570888, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 3.99792697862722e-05, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 2.7998536097584292e-05, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}]"
+    "top_predictions":"[{'confidence': 0.4936564862728119, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.13440074026584625, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.10543458163738251, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}]"
   },
   {
     "true_label":"capcay",
     "filename":"capcay2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"capcay",
+    "prediction_name":"Capcay",
+    "confidence":0.9812,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.981153130531311, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.010428555309772491, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.007979909889400005, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"capcay",
     "filename":"capcay3.jpg",
-    "prediction_label":"seblak",
-    "prediction_name":"Seblak",
-    "confidence":0.4935,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.49348676204681396, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.4701625108718872, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.01629946567118168, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.016034046187996864, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.001635512220673263, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
+    "prediction_label":"capcay",
+    "prediction_name":"Capcay",
+    "confidence":0.9047,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9046946167945862, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.07702141255140305, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.009587359614670277, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"cumi",
     "filename":"cumi1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"cumi",
+    "prediction_name":"Cumi",
+    "confidence":0.9593,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9593186974525452, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.04005754366517067, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.00017231167294085026, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}]"
   },
   {
     "true_label":"cumi",
     "filename":"cumi2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"cumi",
+    "prediction_name":"Cumi",
+    "confidence":0.9996,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9995710253715515, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.00011512859782669693, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 7.059449126245454e-05, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}]"
   },
   {
     "true_label":"cumi",
     "filename":"cumi3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"cumi",
+    "prediction_name":"Cumi",
+    "confidence":0.5054,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.5054305791854858, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.32343268394470215, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.10119049996137619, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}]"
   },
   {
     "true_label":"gado-gado",
     "filename":"gado-gado2.jpg",
-    "prediction_label":"gulai_ikan",
-    "prediction_name":"Gulai Ikan",
-    "confidence":0.9836,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9835963249206543, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.009964522905647755, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.0030260151252150536, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.0008841591770760715, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.0008193410467356443, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
+    "prediction_label":"gado-gado",
+    "prediction_name":"Gado-Gado",
+    "confidence":0.9978,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9978487491607666, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.0008398093050345778, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.00038299045991152525, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
   },
   {
     "true_label":"gado-gado",
     "filename":"gado-gado3.jpg",
-    "prediction_label":"gulai_ikan",
-    "prediction_name":"Gulai Ikan",
+    "prediction_label":"gado-gado",
+    "prediction_name":"Gado-Gado",
     "confidence":0.9997,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9996912479400635, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.0002621165767777711, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 2.4466729882988147e-05, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 9.222043445333838e-06, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 4.942215127812233e-06, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9997432827949524, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.00013882864732295275, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 7.645898585906252e-05, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}]"
   },
   {
     "true_label":"gado-gado",
     "filename":"gado_gado1.jpg",
-    "prediction_label":"bubur_ayam",
-    "prediction_name":"Bubur Ayam",
-    "confidence":0.9375,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9375227689743042, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.02155301161110401, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.014073816128075123, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.009364062920212746, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.0049599939957261086, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}]"
+    "prediction_label":"gado-gado",
+    "prediction_name":"Gado-Gado",
+    "confidence":0.9259,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9258681535720825, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.03766557574272156, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.013749181292951107, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}]"
   },
   {
     "true_label":"gulai_ikan",
     "filename":"gulai_ikan1.jpg",
-    "prediction_label":"ikan_bakar",
-    "prediction_name":"Ikan Bakar",
-    "confidence":0.9981,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9981282353401184, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.0018298502545803785, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 2.3064652850735e-05, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 8.472008630633354e-06, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 3.0911114663467743e-06, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
+    "prediction_label":"gulai_ikan",
+    "prediction_name":"Gulai Ikan",
+    "confidence":0.9991,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9991264939308167, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.0008721244521439075, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 9.212427585225669e-07, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"gulai_ikan",
     "filename":"gulai_ikan2.jpg",
-    "prediction_label":"ikan_bakar",
-    "prediction_name":"Ikan Bakar",
-    "confidence":0.9486,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9486361145973206, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.046528030186891556, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.001414760248735547, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.0011904679704457521, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.0010318008717149496, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"gulai_ikan",
+    "prediction_name":"Gulai Ikan",
+    "confidence":0.9877,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9876909255981445, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.009069746360182762, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.0010660236002877355, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
   },
   {
     "true_label":"gulai_ikan",
     "filename":"gulai_ikan3.jpg",
-    "prediction_label":"ikan_bakar",
-    "prediction_name":"Ikan Bakar",
-    "confidence":1.0,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9999805688858032, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 1.0626758012222126e-05, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 5.594752110482659e-06, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 1.5447507166754804e-06, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 5.814245014335029e-07, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
+    "prediction_label":"gulai_ikan",
+    "prediction_name":"Gulai Ikan",
+    "confidence":0.9999,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999243021011353, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 7.512405136367306e-05, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 2.6362599214735383e-07, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
   },
   {
     "true_label":"ikan_bakar",
     "filename":"ikan_bakar1.jpg",
-    "prediction_label":"ikan_goreng",
-    "prediction_name":"Ikan Goreng",
-    "confidence":0.9737,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9736649990081787, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.026196403428912163, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.00011664818157441914, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 1.7841332009993494e-05, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 2.697041963983793e-06, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
+    "prediction_label":"ikan_bakar",
+    "prediction_name":"Ikan Bakar",
+    "confidence":0.7043,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.7042925953865051, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.2955005466938019, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.000202717594220303, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"ikan_bakar",
     "filename":"ikan_bakar2.jpg",
     "prediction_label":"cumi",
     "prediction_name":"Cumi",
-    "confidence":0.9939,
+    "confidence":0.7722,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.993910551071167, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.002602486638352275, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0015508354408666492, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.0007558045908808708, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.00044040853390470147, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}]"
+    "top_predictions":"[{'confidence': 0.7721625566482544, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.11536206305027008, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.0869188979268074, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"ikan_bakar",
     "filename":"ikan_bakar3.jpg",
-    "prediction_label":"gado-gado",
-    "prediction_name":"Gado-Gado",
-    "confidence":0.5761,
+    "prediction_label":"mie_goreng",
+    "prediction_name":"Mie Goreng",
+    "confidence":0.1317,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5761154294013977, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.39147913455963135, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.012061206623911858, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.00886120367795229, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.008166718296706676, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}]"
+    "top_predictions":"[{'confidence': 0.1317138522863388, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.12393134087324142, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.10804072767496109, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"ikan_goreng",
     "filename":"ikan_goreng1.jpg",
-    "prediction_label":"kepiting_saus",
-    "prediction_name":"Kepiting Saus",
-    "confidence":0.9976,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9975616931915283, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0023896675556898117, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 3.948864105041139e-05, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 3.5684042813954875e-06, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 3.0551591407856904e-06, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
+    "prediction_label":"ikan_goreng",
+    "prediction_name":"Ikan Goreng",
+    "confidence":0.9962,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.996150016784668, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.0038028587587177753, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 1.8570559404906817e-05, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"ikan_goreng",
     "filename":"ikan_goreng2.jpg",
-    "prediction_label":"ayam_goreng",
-    "prediction_name":"Ayam Goreng",
-    "confidence":0.6635,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.6634864211082458, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.2701430916786194, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.039809200912714005, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.01505978498607874, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.006835010834038258, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "prediction_label":"ikan_goreng",
+    "prediction_name":"Ikan Goreng",
+    "confidence":0.6689,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.6689108610153198, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.23245437443256378, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.045424073934555054, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
   },
   {
     "true_label":"ikan_goreng",
     "filename":"ikan_goreng3.jpg",
-    "prediction_label":"buah_kurma",
-    "prediction_name":"Buah Kurma",
-    "confidence":0.3853,
+    "prediction_label":"rendang",
+    "prediction_name":"Rendang",
+    "confidence":0.3056,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.38533395528793335, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.32605797052383423, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.24808354675769806, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.030228829011321068, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.0020198202691972256, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "top_predictions":"[{'confidence': 0.30555060505867004, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.2741956412792206, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.11459776759147644, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
   },
   {
     "true_label":"kepiting_saus",
     "filename":"kepiting_saus1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"kepiting_saus",
+    "prediction_name":"Kepiting Saus",
+    "confidence":0.9958,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9957919120788574, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0013960208743810654, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.0011021678801625967, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"kepiting_saus",
     "filename":"kepiting_saus2.jpg",
-    "prediction_label":"ikan_bakar",
-    "prediction_name":"Ikan Bakar",
-    "confidence":0.5386,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5385503172874451, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.3477005362510681, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.06726658344268799, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.017456846311688423, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.00942862406373024, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
+    "prediction_label":"kepiting_saus",
+    "prediction_name":"Kepiting Saus",
+    "confidence":0.9985,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9985085129737854, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0004180138057563454, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.00030744995456188917, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
   },
   {
     "true_label":"kepiting_saus",
     "filename":"kepiting_saus3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"kepiting_saus",
+    "prediction_name":"Kepiting Saus",
+    "confidence":0.9861,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9860819578170776, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.012389936484396458, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.001354265259578824, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
   },
   {
     "true_label":"kerupuk",
     "filename":"kerupuk1.jpg",
-    "prediction_label":"lontong",
-    "prediction_name":"Lontong",
-    "confidence":0.9532,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9532278180122375, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.03405270725488663, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.011166133917868137, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.0012067051138728857, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0002128706983057782, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
+    "prediction_label":"kerupuk",
+    "prediction_name":"Kerupuk",
+    "confidence":0.999,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9990147352218628, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.0004709289059974253, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.00024228838447015733, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"kerupuk",
     "filename":"kerupuk2.jpg",
-    "prediction_label":"lontong",
-    "prediction_name":"Lontong",
-    "confidence":0.5925,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5925368666648865, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.14967548847198486, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.10136206448078156, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.059839844703674316, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.051096439361572266, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}]"
+    "prediction_label":"kerupuk",
+    "prediction_name":"Kerupuk",
+    "confidence":0.9987,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9987208247184753, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.0006213532178662717, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.000555641483515501, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
   },
   {
     "true_label":"kerupuk",
     "filename":"kerupuk3.jpg",
-    "prediction_label":"lontong",
-    "prediction_name":"Lontong",
+    "prediction_label":"kerupuk",
+    "prediction_name":"Kerupuk",
     "confidence":1.0,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9999963045120239, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 2.516170525268535e-06, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 4.894584435533034e-07, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 1.0955865548112342e-07, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 1.0849933573808812e-07, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}]"
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999973773956299, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 9.988810916183866e-07, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 3.989798926795629e-07, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}]"
   },
   {
     "true_label":"lontong",
     "filename":"lontong1.jpg",
-    "prediction_label":"mie_ayam",
-    "prediction_name":"Mie Ayam",
-    "confidence":0.9988,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9988284707069397, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.0006114470888860524, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.0002471093903295696, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 5.485297515406273e-05, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 5.196397250983864e-05, 'id': 4, 'name': 'Buah Alpukat', 'slug': 'buah_alpukat'}]"
+    "prediction_label":"lontong",
+    "prediction_name":"Lontong",
+    "confidence":0.9998,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9997633099555969, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0001036917747114785, 'id': 16, 'name': 'Buah Pisang', 'slug': 'buah_pisang'}, {'confidence': 5.724547372665256e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"lontong",
     "filename":"lontong2.jpg",
-    "prediction_label":"mie_ayam",
-    "prediction_name":"Mie Ayam",
-    "confidence":1.0,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9999706745147705, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 1.442249231331516e-05, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 1.020230683934642e-05, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 3.425054046601872e-06, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 4.851311246056866e-07, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
+    "prediction_label":"lontong",
+    "prediction_name":"Lontong",
+    "confidence":0.9936,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9935846924781799, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.00417207321152091, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}, {'confidence': 0.0009139857720583677, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}]"
   },
   {
     "true_label":"lontong",
     "filename":"lontong3.jpg",
-    "prediction_label":"mie_ayam",
-    "prediction_name":"Mie Ayam",
-    "confidence":0.5748,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5748214721679688, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.399260550737381, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.016252916306257248, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 0.007476435974240303, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.0006511396495625377, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"lontong",
+    "prediction_name":"Lontong",
+    "confidence":0.9988,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9987850785255432, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0006630770512856543, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.00024876202223822474, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
   },
   {
     "true_label":"mie_ayam",
     "filename":"mie_ayam1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
+    "prediction_label":"mie_goreng",
+    "prediction_name":"Mie Goreng",
+    "confidence":0.8759,
     "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "top_predictions":"[{'confidence': 0.875912070274353, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.11857973784208298, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.004332937300205231, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}]"
   },
   {
     "true_label":"mie_ayam",
     "filename":"mie_ayam2.jpg",
-    "prediction_label":"mie_gacoan",
-    "prediction_name":"Mie Gacoan",
-    "confidence":0.982,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9819984436035156, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.015376179479062557, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0013490173732861876, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.0006535022403113544, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.00030982529278844595, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}]"
+    "prediction_label":"mie_ayam",
+    "prediction_name":"Mie Ayam",
+    "confidence":0.9927,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9926931858062744, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.006373422220349312, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.00030829853494651616, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
   },
   {
     "true_label":"mie_ayam",
     "filename":"mie_ayam3.jpg",
-    "prediction_label":"sate",
-    "prediction_name":"Sate",
-    "confidence":0.4416,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.44156312942504883, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.18710514903068542, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.13457971811294556, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.07131338864564896, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.04545033723115921, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "prediction_label":"mie_ayam",
+    "prediction_name":"Mie Ayam",
+    "confidence":0.8857,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.8856776356697083, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.10970406979322433, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.0019753524102270603, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}]"
   },
   {
     "true_label":"mie_gacoan",
     "filename":"mie_gacoan1.jpg",
-    "prediction_label":"mie_goreng",
-    "prediction_name":"Mie Goreng",
-    "confidence":0.9953,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9952831864356995, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.0022076235618442297, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.0014645301271229982, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.0007896192837506533, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.00023162088473327458, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
+    "prediction_label":"mie_gacoan",
+    "prediction_name":"Mie Gacoan",
+    "confidence":0.9907,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9907243847846985, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.008946948684751987, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.0002741018543019891, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}]"
   },
   {
     "true_label":"mie_gacoan",
     "filename":"mie_gacoan2.jpg",
-    "prediction_label":"ayam_goreng",
-    "prediction_name":"Ayam Goreng",
-    "confidence":0.2941,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.2941000163555145, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.17792420089244843, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.11803184449672699, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.10942420363426208, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.08255157619714737, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
+    "prediction_label":"mie_gacoan",
+    "prediction_name":"Mie Gacoan",
+    "confidence":0.529,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.529026210308075, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.18015751242637634, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.1600838005542755, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}]"
   },
   {
     "true_label":"mie_gacoan",
     "filename":"mie_gacoan3.jpg",
-    "prediction_label":"mie_kuah",
-    "prediction_name":"Mie Kuah",
-    "confidence":0.5804,
+    "prediction_label":"mie_ayam",
+    "prediction_name":"Mie Ayam",
+    "confidence":0.3728,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5803937315940857, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.4065769910812378, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.008638106286525726, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.004245013929903507, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 7.188885501818731e-05, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}]"
+    "top_predictions":"[{'confidence': 0.372765451669693, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.3143002986907959, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.3117614686489105, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}]"
   },
   {
     "true_label":"mie_goreng",
     "filename":"mie_goreng1.jpg",
-    "prediction_label":"mie_kuah",
-    "prediction_name":"Mie Kuah",
-    "confidence":0.9138,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9137526154518127, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.08596483618021011, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.00018388185708317906, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 9.597162716090679e-05, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 1.3652617099069175e-06, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
+    "prediction_label":"mie_goreng",
+    "prediction_name":"Mie Goreng",
+    "confidence":0.9668,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9667888283729553, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.0246261116117239, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.004714255686849356, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
   },
   {
     "true_label":"mie_goreng",
     "filename":"mie_goreng2.jpg",
-    "prediction_label":"mie_kuah",
-    "prediction_name":"Mie Kuah",
-    "confidence":0.5383,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5382770299911499, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.4016718566417694, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.045915935188531876, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.008286622352898121, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0043252636678516865, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}]"
+    "prediction_label":"mie_goreng",
+    "prediction_name":"Mie Goreng",
+    "confidence":0.9441,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.944099485874176, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.04070693254470825, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.007399601861834526, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}]"
   },
   {
     "true_label":"mie_goreng",
     "filename":"mie_goreng3.jpg",
-    "prediction_label":"mie_kuah",
-    "prediction_name":"Mie Kuah",
-    "confidence":0.9611,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9611101746559143, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.03731270134449005, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0005693305283784866, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.0004023035289719701, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.0003217687481082976, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}]"
+    "prediction_label":"mie_goreng",
+    "prediction_name":"Mie Goreng",
+    "confidence":0.9874,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9874106049537659, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.009671853855252266, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.002150287851691246, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
   },
   {
     "true_label":"mie_kuah",
     "filename":"mie_kuah1.jpg",
-    "prediction_label":"nasi",
-    "prediction_name":"Nasi",
-    "confidence":0.9429,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9428794384002686, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.017892470583319664, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.01307881623506546, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.013075529597699642, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.006640735547989607, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}]"
+    "prediction_label":"mie_kuah",
+    "prediction_name":"Mie Kuah",
+    "confidence":0.6958,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.6957799792289734, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.11242072284221649, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0902084931731224, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}]"
   },
   {
     "true_label":"mie_kuah",
     "filename":"mie_kuah2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"mie_kuah",
+    "prediction_name":"Mie Kuah",
+    "confidence":0.98,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9800260066986084, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.015683908015489578, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.003918931819498539, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}]"
   },
   {
     "true_label":"mie_kuah",
     "filename":"mie_kuah3.jpg",
-    "prediction_label":"nasi",
-    "prediction_name":"Nasi",
-    "confidence":0.867,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.8669649362564087, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.07078757882118225, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.033235348761081696, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.010189448483288288, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.008594334125518799, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}]"
+    "prediction_label":"mie_kuah",
+    "prediction_name":"Mie Kuah",
+    "confidence":0.928,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9280186295509338, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.0686199888586998, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.0010956405894830823, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}]"
   },
   {
     "true_label":"nasi",
     "filename":"nasi1.jpg",
-    "prediction_label":"gulai_ikan",
-    "prediction_name":"Gulai Ikan",
-    "confidence":0.8318,
+    "prediction_label":"bubur_ayam",
+    "prediction_name":"Bubur Ayam",
+    "confidence":0.8205,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.8318495750427246, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.10794295370578766, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.028092464432120323, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.020342420786619186, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.002719193696975708, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "top_predictions":"[{'confidence': 0.820455014705658, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.14544722437858582, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}, {'confidence': 0.021224752068519592, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}]"
   },
   {
     "true_label":"nasi",
     "filename":"nasi2.jpg",
-    "prediction_label":"nasi_bakar",
-    "prediction_name":"Nasi Bakar",
-    "confidence":0.9963,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9962875843048096, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.0011929260799661279, 'id': 14, 'name': 'Buah Nanas', 'slug': 'buah_nanas'}, {'confidence': 0.0008171297376975417, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.000567746814340353, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0003241251688450575, 'id': 41, 'name': 'Sate', 'slug': 'sate'}]"
+    "prediction_label":"nasi",
+    "prediction_name":"Nasi",
+    "confidence":0.9994,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.999394416809082, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0003926928620785475, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.0001480643404647708, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"nasi",
     "filename":"nasi3.jpg",
-    "prediction_label":"nasi_bakar",
-    "prediction_name":"Nasi Bakar",
-    "confidence":0.7271,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.727086067199707, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.21900807321071625, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.02095690742135048, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.011209869757294655, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.0075680953450500965, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"nasi",
+    "prediction_name":"Nasi",
+    "confidence":0.5989,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.5988608598709106, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.1752091646194458, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.1738574504852295, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}]"
   },
   {
     "true_label":"nasi_bakar",
     "filename":"nasi_bakar1.jpg",
-    "prediction_label":"nasi_goreng",
-    "prediction_name":"Nasi Goreng",
-    "confidence":0.7507,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7506861686706543, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.24724362790584564, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.0006580003537237644, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.0003632756124716252, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.00021715233742725104, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
+    "prediction_label":"nasi_bakar",
+    "prediction_name":"Nasi Bakar",
+    "confidence":0.9963,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9963122010231018, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.002547102514654398, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.0006525776698254049, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}]"
   },
   {
     "true_label":"nasi_bakar",
     "filename":"nasi_bakar2.jpg",
-    "prediction_label":"nasi_goreng",
-    "prediction_name":"Nasi Goreng",
-    "confidence":0.5572,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.557205319404602, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.4425382912158966, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.00012825863086618483, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 4.322130553191528e-05, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 2.402750396868214e-05, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "prediction_label":"nasi_bakar",
+    "prediction_name":"Nasi Bakar",
+    "confidence":0.7321,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.7320501804351807, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.2540374994277954, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.00863626878708601, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
   },
   {
     "true_label":"nasi_bakar",
     "filename":"nasi_bakar3.jpg",
-    "prediction_label":"nasi_goreng",
-    "prediction_name":"Nasi Goreng",
-    "confidence":0.9575,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9574905037879944, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.042154375463724136, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.0002624883782118559, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 5.0117901992052794e-05, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 2.2176805941853672e-05, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"nasi_bakar",
+    "prediction_name":"Nasi Bakar",
+    "confidence":0.5827,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.5826680660247803, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.4149229824542999, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.0008322224020957947, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"nasi_goreng",
     "filename":"nasi_goreng1.jpg",
-    "prediction_label":"mie_goreng",
-    "prediction_name":"Mie Goreng",
-    "confidence":0.4344,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.43443822860717773, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.2806283235549927, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.1311197429895401, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.05602044612169266, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.03847336396574974, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}]"
+    "prediction_label":"nasi_goreng",
+    "prediction_name":"Nasi Goreng",
+    "confidence":0.7179,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.7178629636764526, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.09868103265762329, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.04129958152770996, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"nasi_goreng",
     "filename":"nasi_goreng2.jpg",
-    "prediction_label":"opor_ayam",
-    "prediction_name":"Opor Ayam",
-    "confidence":0.3448,
+    "prediction_label":"cumi",
+    "prediction_name":"Cumi",
+    "confidence":0.2759,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.34475409984588623, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.2553420066833496, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.12053075432777405, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.07314448058605194, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.06198272109031677, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
+    "top_predictions":"[{'confidence': 0.2758960723876953, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.2670581638813019, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.1300901472568512, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"nasi_goreng",
     "filename":"nasi_goreng3.jpg",
-    "prediction_label":"opor_ayam",
-    "prediction_name":"Opor Ayam",
-    "confidence":0.8697,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.8696630597114563, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.054463088512420654, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.02165968343615532, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.019437922164797783, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.018603293225169182, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"nasi_goreng",
+    "prediction_name":"Nasi Goreng",
+    "confidence":0.9389,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9388790130615234, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.03748283535242081, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}, {'confidence': 0.010367431677877903, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"opor_ayam",
     "filename":"opor_ayam1.jpg",
-    "prediction_label":"pepes_ikan",
-    "prediction_name":"Pepes Ikan",
-    "confidence":0.9987,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9987334609031677, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.0004522142990026623, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.0002698833413887769, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.00015720975352451205, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.0001377808948745951, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
+    "prediction_label":"opor_ayam",
+    "prediction_name":"Opor Ayam",
+    "confidence":0.9989,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9988652467727661, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.0004230150661896914, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.0003211493312846869, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}]"
   },
   {
     "true_label":"opor_ayam",
     "filename":"opor_ayam2.jpg",
-    "prediction_label":"pepes_ikan",
-    "prediction_name":"Pepes Ikan",
-    "confidence":0.9867,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9866978526115417, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.006447114050388336, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.003954953979700804, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.0022223342675715685, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.0002559318672865629, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}]"
+    "prediction_label":"opor_ayam",
+    "prediction_name":"Opor Ayam",
+    "confidence":0.9995,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9994567036628723, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.0005420033703558147, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 9.843583939073142e-07, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}]"
   },
   {
     "true_label":"opor_ayam",
     "filename":"opor_ayam3.jpg",
-    "prediction_label":"pepes_ikan",
-    "prediction_name":"Pepes Ikan",
-    "confidence":0.6399,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.6399324536323547, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.16150349378585815, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.06838370114564896, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.04018158093094826, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}, {'confidence': 0.025688454508781433, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}]"
+    "prediction_label":"opor_ayam",
+    "prediction_name":"Opor Ayam",
+    "confidence":0.9724,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9723812937736511, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.020316407084465027, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.002624767366796732, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
   },
   {
     "true_label":"pepes_ikan",
     "filename":"pepes_ikan1.jpg",
-    "prediction_label":"rendang",
-    "prediction_name":"Rendang",
-    "confidence":0.7525,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7525463104248047, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.114314965903759, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.054181553423404694, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.041926659643650055, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.016373910009860992, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}]"
+    "prediction_label":"pepes_ikan",
+    "prediction_name":"Pepes Ikan",
+    "confidence":0.9428,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9427939057350159, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.012588230893015862, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.010675045661628246, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}]"
   },
   {
     "true_label":"pepes_ikan",
     "filename":"pepes_ikan2.jpg",
-    "prediction_label":"rendang",
-    "prediction_name":"Rendang",
-    "confidence":0.9993,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9992865920066833, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.0007072531152516603, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 4.744949364976492e-06, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 1.1854513104481157e-06, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 1.0581199205716985e-07, 'id': 1, 'name': 'Ayam Geprek', 'slug': 'ayam_geprek'}]"
+    "prediction_label":"pepes_ikan",
+    "prediction_name":"Pepes Ikan",
+    "confidence":0.9984,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9983580708503723, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.0016126884147524834, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 2.2179376173880883e-05, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
   },
   {
     "true_label":"pepes_ikan",
     "filename":"pepes_ikan3.jpg",
-    "prediction_label":"rendang",
-    "prediction_name":"Rendang",
-    "confidence":0.9796,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9795917868614197, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.010158936493098736, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.005891979672014713, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.003544401843100786, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.0005076854722574353, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
+    "prediction_label":"pepes_ikan",
+    "prediction_name":"Pepes Ikan",
+    "confidence":0.9965,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9964625239372253, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}, {'confidence': 0.00221737427636981, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.0005792398587800562, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
   },
   {
     "true_label":"rendang",
     "filename":"rendang1.jpg",
-    "prediction_label":"ayam_goreng",
-    "prediction_name":"Ayam Goreng",
-    "confidence":0.8566,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.856631875038147, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.100926972925663, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.01460503414273262, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.010954700410366058, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.005479774437844753, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}]"
+    "prediction_label":"rendang",
+    "prediction_name":"Rendang",
+    "confidence":0.9944,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9944394826889038, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.0018399447435513139, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.0012452485971152782, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
   },
   {
     "true_label":"rendang",
     "filename":"rendang2.jpg",
-    "prediction_label":"ayam_bakar",
-    "prediction_name":"Ayam Bakar",
-    "confidence":0.4352,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.4352089464664459, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.35260531306266785, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.18834970891475677, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.018182644620537758, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.003143104026094079, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "prediction_label":"rendang",
+    "prediction_name":"Rendang",
+    "confidence":0.9596,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9595843553543091, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.018408019095659256, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.008240181021392345, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
   },
   {
     "true_label":"rendang",
     "filename":"rendang3.jpg",
-    "prediction_label":"ayam_goreng",
-    "prediction_name":"Ayam Goreng",
-    "confidence":0.5077,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.5076544284820557, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.18471945822238922, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.09535513073205948, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.04897843673825264, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.04631172865629196, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}]"
+    "prediction_label":"rendang",
+    "prediction_name":"Rendang",
+    "confidence":0.9996,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9995549321174622, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.00022627109137829393, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 9.770978067535907e-05, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}]"
   },
   {
     "true_label":"sate",
     "filename":"sate1.jpg",
-    "prediction_label":"sayur_asem",
-    "prediction_name":"Sayur Asem",
-    "confidence":0.9957,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.995657205581665, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.0034618955105543137, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.00035041116643697023, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.00014349141565617174, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.00013401557225733995, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
+    "prediction_label":"sate",
+    "prediction_name":"Sate",
+    "confidence":0.9995,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9995259046554565, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.00030296112527139485, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 6.917809514561668e-05, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
   },
   {
     "true_label":"sate",
     "filename":"sate2.jpg",
-    "prediction_label":"sayur_asem",
-    "prediction_name":"Sayur Asem",
-    "confidence":0.9748,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9747562408447266, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.009957700967788696, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.00825811643153429, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.004408869426697493, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.0012865574099123478, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
+    "prediction_label":"sate",
+    "prediction_name":"Sate",
+    "confidence":0.9977,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9977036118507385, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.0019463080679997802, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.0002297267783433199, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
   },
   {
     "true_label":"sate",
     "filename":"sate3.jpg",
-    "prediction_label":"sayur_asem",
-    "prediction_name":"Sayur Asem",
-    "confidence":0.9981,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9981287121772766, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.0011533232172951102, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.00019060457998421043, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.00015649650595150888, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.00010235637455480173, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "prediction_label":"sate",
+    "prediction_name":"Sate",
+    "confidence":1.0,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999556541442871, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 3.099337118328549e-05, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 7.803002517903224e-06, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
   },
   {
     "true_label":"sayur_asem",
     "filename":"sayur_asem1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"sayur_asem",
+    "prediction_name":"Sayur Asem",
+    "confidence":0.9999,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999489784240723, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 1.660101224842947e-05, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 1.2871515536971856e-05, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}]"
   },
   {
     "true_label":"sayur_asem",
     "filename":"sayur_asem2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"sayur_asem",
+    "prediction_name":"Sayur Asem",
+    "confidence":0.9415,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9414577484130859, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.044473860412836075, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.00814139936119318, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
   },
   {
     "true_label":"sayur_asem",
     "filename":"sayur_asem3.jpg",
-    "prediction_label":"sayur_sop",
-    "prediction_name":"Sayur Sop",
-    "confidence":0.9997,
+    "prediction_label":"lontong",
+    "prediction_name":"Lontong",
+    "confidence":0.3991,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9996713399887085, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0001139980522566475, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 4.395854921313003e-05, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 3.820875281235203e-05, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 3.585018203011714e-05, 'id': 39, 'name': 'Pepes Ikan', 'slug': 'pepes_ikan'}]"
+    "top_predictions":"[{'confidence': 0.3991069197654724, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.339862585067749, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.1648559719324112, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
   },
   {
     "true_label":"sayur_sop",
     "filename":"sayur_sop1.jpg",
     "prediction_label":"sayur_sop",
     "prediction_name":"Sayur Sop",
-    "confidence":0.4344,
+    "confidence":0.9997,
     "is_correct":true,
-    "top_predictions":"[{'confidence': 0.43443238735198975, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.20245249569416046, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.1519026756286621, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.09703221917152405, 'id': 19, 'name': 'Buah Semangka', 'slug': 'buah_semangka'}, {'confidence': 0.027477284893393517, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "top_predictions":"[{'confidence': 0.9996793270111084, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0001752234238665551, 'id': 42, 'name': 'Sayur Asem', 'slug': 'sayur_asem'}, {'confidence': 0.00010544285760261118, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}]"
   },
   {
     "true_label":"sayur_sop",
     "filename":"sayur_sop2.jpg",
-    "prediction_label":"seblak",
-    "prediction_name":"Seblak",
-    "confidence":0.8316,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.8316107392311096, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.16524025797843933, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.0015999192837625742, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0007569099543616176, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.00037192372838035226, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "prediction_label":"sayur_sop",
+    "prediction_name":"Sayur Sop",
+    "confidence":0.9982,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9981861710548401, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0007082977099344134, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.0005805641994811594, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}]"
   },
   {
     "true_label":"sayur_sop",
     "filename":"sayur_sop3.jpg",
-    "prediction_label":"seblak",
-    "prediction_name":"Seblak",
-    "confidence":0.9365,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9365118145942688, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.034339237958192825, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.009002876468002796, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.004706722218543291, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}, {'confidence': 0.004336523357778788, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
+    "prediction_label":"sayur_sop",
+    "prediction_name":"Sayur Sop",
+    "confidence":0.9983,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9983420372009277, 'id': 43, 'name': 'Sayur Sop', 'slug': 'sayur_sop'}, {'confidence': 0.0007774513214826584, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}, {'confidence': 0.0006188934203237295, 'id': 3, 'name': 'Bakso', 'slug': 'bakso'}]"
   },
   {
     "true_label":"seblak",
     "filename":"seblak1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"seblak",
+    "prediction_name":"Seblak",
+    "confidence":0.9797,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9796600937843323, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.009202338755130768, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.008639377541840076, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
   },
   {
     "true_label":"seblak",
     "filename":"seblak2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"seblak",
+    "prediction_name":"Seblak",
+    "confidence":0.9854,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9853965640068054, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.005972689483314753, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.0036142594181001186, 'id': 22, 'name': 'Capcay', 'slug': 'capcay'}]"
   },
   {
     "true_label":"seblak",
     "filename":"seblak3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"seblak",
+    "prediction_name":"Seblak",
+    "confidence":0.9685,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9685311317443848, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}, {'confidence': 0.02338257245719433, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.003559781238436699, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}]"
   },
   {
     "true_label":"sosis",
     "filename":"sosis1.jpg",
-    "prediction_label":"tahu_goreng",
-    "prediction_name":"Tahu Goreng",
-    "confidence":0.9953,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9952505826950073, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.003054563421756029, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0008067284943535924, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.00038724392652511597, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.00013319992285687476, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}]"
+    "prediction_label":"sosis",
+    "prediction_name":"Sosis",
+    "confidence":0.968,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9679839611053467, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.03186841681599617, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 9.956771828001365e-05, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}]"
   },
   {
     "true_label":"sosis",
     "filename":"sosis2.jpg",
-    "prediction_label":"buah_kurma",
-    "prediction_name":"Buah Kurma",
-    "confidence":0.7384,
+    "prediction_label":"ikan_goreng",
+    "prediction_name":"Ikan Goreng",
+    "confidence":0.4713,
     "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7384201884269714, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 0.22244957089424133, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.027456337586045265, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.004311445169150829, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.0025246331933885813, 'id': 15, 'name': 'Buah Pepaya', 'slug': 'buah_pepaya'}]"
+    "top_predictions":"[{'confidence': 0.4712543785572052, 'id': 27, 'name': 'Ikan Goreng', 'slug': 'ikan_goreng'}, {'confidence': 0.36023473739624023, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}, {'confidence': 0.08826121687889099, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
   },
   {
     "true_label":"sosis",
     "filename":"sosis3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"sosis",
+    "prediction_name":"Sosis",
+    "confidence":1.0,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999783039093018, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 7.206437203421956e-06, 'id': 10, 'name': 'Buah Kurma', 'slug': 'buah_kurma'}, {'confidence': 4.679994162870571e-06, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
   },
   {
     "true_label":"tahu_goreng",
     "filename":"tahu_goreng1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"tahu_goreng",
+    "prediction_name":"Tahu Goreng",
+    "confidence":0.7152,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.7151933908462524, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.16695056855678558, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.08221206068992615, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
   },
   {
     "true_label":"tahu_goreng",
     "filename":"tahu_goreng2.jpg",
-    "prediction_label":"telur_goreng",
-    "prediction_name":"Telur Goreng",
-    "confidence":0.997,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9970211386680603, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.0018211399437859654, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.00046552825369872153, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0003610072599258274, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.00010693699005059898, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "prediction_label":"tahu_goreng",
+    "prediction_name":"Tahu Goreng",
+    "confidence":0.9949,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.994932234287262, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.00288914842531085, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.0014845732366666198, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}]"
   },
   {
     "true_label":"tahu_goreng",
     "filename":"tahu_goreng3.jpg",
-    "prediction_label":"telur_goreng",
-    "prediction_name":"Telur Goreng",
-    "confidence":1.0,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.999993085861206, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 3.438319936321932e-06, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 2.1301200376910856e-06, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 3.4462991038708424e-07, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 2.9508527177313226e-07, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
+    "prediction_label":"tahu_goreng",
+    "prediction_name":"Tahu Goreng",
+    "confidence":0.9986,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9985594153404236, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.0013939263299107552, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 1.78007067006547e-05, 'id': 9, 'name': 'Buah Kiwi', 'slug': 'buah_kiwi'}]"
   },
   {
     "true_label":"telur_goreng",
     "filename":"telur_goreng1.jpg",
-    "prediction_label":"telur_rebus",
-    "prediction_name":"Telur Rebus",
-    "confidence":0.9418,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9418348073959351, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.03998303785920143, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}, {'confidence': 0.013158380053937435, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 0.0023536677472293377, 'id': 38, 'name': 'Opor Ayam', 'slug': 'opor_ayam'}, {'confidence': 0.0010502702789381146, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}]"
+    "prediction_label":"telur_goreng",
+    "prediction_name":"Telur Goreng",
+    "confidence":0.9839,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9838660359382629, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.00948313344269991, 'id': 37, 'name': 'Nasi Goreng', 'slug': 'nasi_goreng'}, {'confidence': 0.0029837971087545156, 'id': 25, 'name': 'Gulai Ikan', 'slug': 'gulai_ikan'}]"
   },
   {
     "true_label":"telur_goreng",
     "filename":"telur_goreng2.jpg",
-    "prediction_label":"telur_rebus",
-    "prediction_name":"Telur Rebus",
-    "confidence":0.9869,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9868725538253784, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.012110456824302673, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0005147358169779181, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 0.00011253542470512912, 'id': 21, 'name': 'Bubur Ayam', 'slug': 'bubur_ayam'}, {'confidence': 7.780737360008061e-05, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}]"
+    "prediction_label":"telur_goreng",
+    "prediction_name":"Telur Goreng",
+    "confidence":0.5364,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.5364099144935608, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.377251535654068, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.051995690912008286, 'id': 24, 'name': 'Gado-Gado', 'slug': 'gado-gado'}]"
   },
   {
     "true_label":"telur_goreng",
     "filename":"telur_goreng3.jpg",
-    "prediction_label":"telur_rebus",
-    "prediction_name":"Telur Rebus",
-    "confidence":0.9711,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9710550904273987, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.020433200523257256, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.00681293336674571, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0005195564008317888, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.0003100591420661658, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
+    "prediction_label":"telur_goreng",
+    "prediction_name":"Telur Goreng",
+    "confidence":0.5144,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.5144103765487671, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.17689137160778046, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}, {'confidence': 0.08886260539293289, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}]"
   },
   {
     "true_label":"telur_rebus",
     "filename":"telur_rebus1.jpg",
-    "prediction_label":"tempe_goreng",
-    "prediction_name":"Tempe Goreng",
-    "confidence":0.6488,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.6487550735473633, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.28318798542022705, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}, {'confidence': 0.03742941841483116, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.019282951951026917, 'id': 17, 'name': 'Buah Rambutan', 'slug': 'buah_rambutan'}, {'confidence': 0.004656360950320959, 'id': 18, 'name': 'Buah Salak', 'slug': 'buah_salak'}]"
+    "prediction_label":"telur_rebus",
+    "prediction_name":"Telur Rebus",
+    "confidence":0.8927,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.8926706314086914, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.04541415348649025, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.02619486302137375, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}]"
   },
   {
     "true_label":"telur_rebus",
     "filename":"telur_rebus2.jpg",
-    "prediction_label":"tempe_goreng",
-    "prediction_name":"Tempe Goreng",
-    "confidence":0.9994,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9994112253189087, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.00014470239693764597, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 0.00011227811774006113, 'id': 11, 'name': 'Buah Mangga', 'slug': 'buah_mangga'}, {'confidence': 6.925266643520445e-05, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 5.755512756877579e-05, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
+    "prediction_label":"telur_rebus",
+    "prediction_name":"Telur Rebus",
+    "confidence":0.9846,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9846247434616089, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.01167633943259716, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}, {'confidence': 0.0017892041942104697, 'id': 41, 'name': 'Sate', 'slug': 'sate'}]"
   },
   {
     "true_label":"telur_rebus",
     "filename":"telur_rebus3.jpg",
-    "prediction_label":"tempe_goreng",
-    "prediction_name":"Tempe Goreng",
-    "confidence":0.9978,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9978184700012207, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.0018156968289986253, 'id': 8, 'name': 'Buah Jeruk', 'slug': 'buah_jeruk'}, {'confidence': 0.00010941596701741219, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 7.175646169343963e-05, 'id': 36, 'name': 'Nasi Bakar', 'slug': 'nasi_bakar'}, {'confidence': 5.77373466512654e-05, 'id': 5, 'name': 'Buah Anggur', 'slug': 'buah_anggur'}]"
+    "prediction_label":"telur_rebus",
+    "prediction_name":"Telur Rebus",
+    "confidence":0.9986,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9985615611076355, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.00048729695845395327, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0004353811382316053, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"tempe_goreng",
     "filename":"tempe_goreng1.jpg",
-    "prediction_label":"terong_balado",
-    "prediction_name":"Terong Balado",
-    "confidence":0.9958,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9957541227340698, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.001938888686709106, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0013720897259190679, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.0006450496148318052, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.00019912561401724815, 'id': 30, 'name': 'Lontong', 'slug': 'lontong'}]"
+    "prediction_label":"tempe_goreng",
+    "prediction_name":"Tempe Goreng",
+    "confidence":0.9989,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9989462494850159, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.000773692736402154, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.0002529504999984056, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
   },
   {
     "true_label":"tempe_goreng",
     "filename":"tempe_goreng2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"tempe_goreng",
+    "prediction_name":"Tempe Goreng",
+    "confidence":0.9969,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9969446063041687, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.0020255413837730885, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.0009471076191402972, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}]"
   },
   {
     "true_label":"tempe_goreng",
     "filename":"tempe_goreng3.jpg",
-    "prediction_label":"terong_balado",
-    "prediction_name":"Terong Balado",
-    "confidence":0.7682,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.7682033777236938, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.2011171281337738, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}, {'confidence': 0.019787169992923737, 'id': 48, 'name': 'Telur Rebus', 'slug': 'telur_rebus'}, {'confidence': 0.0064572524279356, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.0032383755315095186, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "prediction_label":"tempe_goreng",
+    "prediction_name":"Tempe Goreng",
+    "confidence":0.898,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.8980399966239929, 'id': 49, 'name': 'Tempe Goreng', 'slug': 'tempe_goreng'}, {'confidence': 0.061036333441734314, 'id': 46, 'name': 'Tahu Goreng', 'slug': 'tahu_goreng'}, {'confidence': 0.03557077795267105, 'id': 47, 'name': 'Telur Goreng', 'slug': 'telur_goreng'}]"
   },
   {
     "true_label":"terong_balado",
     "filename":"terong_balado1.jpg",
-    "prediction_label":"tumis_kangkung",
-    "prediction_name":"Tumis Kangkung",
-    "confidence":0.9899,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9899142980575562, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.006944514345377684, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}, {'confidence': 0.001000097836367786, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.0004693600058089942, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.00028617409407161176, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}]"
+    "prediction_label":"terong_balado",
+    "prediction_name":"Terong Balado",
+    "confidence":0.999,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9990494847297668, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.0005308854742906988, 'id': 41, 'name': 'Sate', 'slug': 'sate'}, {'confidence': 0.00034000881714746356, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
   },
   {
     "true_label":"terong_balado",
     "filename":"terong_balado2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
+    "prediction_label":"kepiting_saus",
+    "prediction_name":"Kepiting Saus",
+    "confidence":0.6007,
     "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "top_predictions":"[{'confidence': 0.6007441282272339, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}, {'confidence': 0.3857968747615814, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.0033830164466053247, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
   },
   {
     "true_label":"terong_balado",
     "filename":"terong_balado3.jpg",
-    "prediction_label":"tumis_kangkung",
-    "prediction_name":"Tumis Kangkung",
-    "confidence":0.8945,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.8945422172546387, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.024593235924839973, 'id': 29, 'name': 'Kerupuk', 'slug': 'kerupuk'}, {'confidence': 0.02193702757358551, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.018211472779512405, 'id': 40, 'name': 'Rendang', 'slug': 'rendang'}, {'confidence': 0.01605391874909401, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
+    "prediction_label":"terong_balado",
+    "prediction_name":"Terong Balado",
+    "confidence":0.8971,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.897108256816864, 'id': 50, 'name': 'Terong Balado', 'slug': 'terong_balado'}, {'confidence': 0.04122629761695862, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}, {'confidence': 0.020790640264749527, 'id': 2, 'name': 'Ayam Goreng', 'slug': 'ayam_goreng'}]"
   },
   {
     "true_label":"tumis_kangkung",
     "filename":"tumis_kangkung1.jpg",
-    "prediction_label":"udang_saus",
-    "prediction_name":"Udang Saus",
-    "confidence":0.9998,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9997898936271667, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.0001245200983248651, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 6.1636688769795e-05, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 2.3180558855528943e-05, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 2.1716223841394822e-07, 'id': 26, 'name': 'Ikan Bakar', 'slug': 'ikan_bakar'}]"
+    "prediction_label":"tumis_kangkung",
+    "prediction_name":"Tumis Kangkung",
+    "confidence":1.0,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999994039535522, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 4.4905695517627464e-07, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 7.508618438123449e-08, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"tumis_kangkung",
     "filename":"tumis_kangkung2.jpg",
-    "prediction_label":"udang_saus",
-    "prediction_name":"Udang Saus",
-    "confidence":0.9981,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9980777502059937, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.0012808528263121843, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0004263037408236414, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.00010723731247708201, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 5.581275763688609e-05, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
+    "prediction_label":"tumis_kangkung",
+    "prediction_name":"Tumis Kangkung",
+    "confidence":0.9982,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9981988072395325, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 0.0005818502977490425, 'id': 33, 'name': 'Mie Goreng', 'slug': 'mie_goreng'}, {'confidence': 0.000580259074922651, 'id': 23, 'name': 'Cumi', 'slug': 'cumi'}]"
   },
   {
     "true_label":"tumis_kangkung",
     "filename":"tumis_kangkung3.jpg",
-    "prediction_label":"udang_saus",
-    "prediction_name":"Udang Saus",
-    "confidence":0.9949,
-    "is_correct":false,
-    "top_predictions":"[{'confidence': 0.9948770403862, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.0024963009636849165, 'id': 34, 'name': 'Mie Kuah', 'slug': 'mie_kuah'}, {'confidence': 0.0012925721239298582, 'id': 32, 'name': 'Mie Gacoan', 'slug': 'mie_gacoan'}, {'confidence': 0.000552915211301297, 'id': 35, 'name': 'Nasi', 'slug': 'nasi'}, {'confidence': 0.0001729253272060305, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
+    "prediction_label":"tumis_kangkung",
+    "prediction_name":"Tumis Kangkung",
+    "confidence":1.0,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9999961853027344, 'id': 51, 'name': 'Tumis Kangkung', 'slug': 'tumis_kangkung'}, {'confidence': 2.959741323138587e-06, 'id': 31, 'name': 'Mie Ayam', 'slug': 'mie_ayam'}, {'confidence': 5.650553589475749e-07, 'id': 0, 'name': 'Ayam Bakar', 'slug': 'ayam_bakar'}]"
   },
   {
     "true_label":"udang_saus",
     "filename":"udang_saus1.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"udang_saus",
+    "prediction_name":"Udang Saus",
+    "confidence":0.8642,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.8642303943634033, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.09516268968582153, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.01903265155851841, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
   },
   {
     "true_label":"udang_saus",
     "filename":"udang_saus2.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"udang_saus",
+    "prediction_name":"Udang Saus",
+    "confidence":0.977,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9770464301109314, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.016350824385881424, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.00547702144831419, 'id': 44, 'name': 'Seblak', 'slug': 'seblak'}]"
   },
   {
     "true_label":"udang_saus",
     "filename":"udang_saus3.jpg",
-    "prediction_label":null,
-    "prediction_name":null,
-    "confidence":null,
-    "is_correct":false,
-    "top_predictions":"ERROR 500: {\"error\":\"No image provided\",\"status\":\"failed\"}\n"
+    "prediction_label":"udang_saus",
+    "prediction_name":"Udang Saus",
+    "confidence":0.9974,
+    "is_correct":true,
+    "top_predictions":"[{'confidence': 0.9973942041397095, 'id': 52, 'name': 'Udang Saus', 'slug': 'udang_saus'}, {'confidence': 0.001269969274289906, 'id': 45, 'name': 'Sosis', 'slug': 'sosis'}, {'confidence': 0.000708895968273282, 'id': 28, 'name': 'Kepiting Saus', 'slug': 'kepiting_saus'}]"
   }
 ]
