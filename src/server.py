@@ -42,6 +42,10 @@ def get_top_predictions(predictions, top_n=TOP_N):
         for i in top_n_indices
     ]
 
+@app.route('/')
+def index():
+    return "Welcome to the Image Classification API. Use the /model/predict endpoint to POST an image."
+
 @app.route('/model/predict', methods=['POST'])
 def predict():
     if 'image' not in request.files:

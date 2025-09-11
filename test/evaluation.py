@@ -2,7 +2,7 @@ import os
 import requests
 import pandas as pd
 
-API_URL = 'http://127.0.0.1:5000/model/predict'
+API_URL = 'https://backend-python-sahabat-gula-166777420148.asia-southeast1.run.app/model/predict'
 TEST_DIR = 'test/data'
 TOP_N = 5
 
