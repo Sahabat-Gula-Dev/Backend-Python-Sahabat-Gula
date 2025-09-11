@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 
 MODEL_PATH = 'src/models/model.h5'
 CLASS_INDICES_PATH = 'src/class_indices.json'
-IMG_SIZE = 150
+IMG_SIZE = 224
 TOP_N = 3
 
 model = load_model(MODEL_PATH)

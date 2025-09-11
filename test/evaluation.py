@@ -54,7 +54,7 @@ for label in os.listdir(TEST_DIR):
                 'top_predictions': str(top_preds)
             })
 
-            print(f"[{img_name}] True: {label} → Pred: {best.get('slug')} ({'🎉' if is_correct else '🥲'})")
+            print(f"[{img_name}] True: {label} → Pred: {best.get('slug')} ({'🥰' if is_correct else '🐒'})")
 
         else:
             results.append({
