@@ -37,7 +37,7 @@ Upload gambar makanan untuk mendapatkan prediksi.
       "name": "Nasi Gudeg",
       "confidence": 0.95
     },
-    ...
+    
   ],
   "best": {
     "id": 0,
@@ -52,7 +52,7 @@ Upload gambar makanan untuk mendapatkan prediksi.
 ## Menjalankan Service
 
 ```bash
-python app.py
+python src/server.py
 ```
 
 Service akan berjalan di `http://0.0.0.0:5000`
